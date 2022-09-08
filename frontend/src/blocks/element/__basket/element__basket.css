@@ -1,0 +1,14 @@
+.element__basket {
+    background-image: url(../../../images/basket.svg);
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: center;
+    background-color: transparent;
+    border: none;
+    position: absolute;
+    width: 18px;
+    height: 19.3px;
+    top: 18px;
+    right: 15px;
+    cursor: pointer;
+}

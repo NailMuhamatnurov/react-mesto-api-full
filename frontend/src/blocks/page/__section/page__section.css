@@ -1,0 +1,24 @@
+.page__section {
+    margin: auto 200px;
+}
+
+@media screen and (min-width: 1281px) {
+    .page__section {
+        margin-left: calc((100vw - 880px)/2);
+        margin-right: calc((100vw - 880px)/2);
+    }
+}
+
+@media screen and (max-width: 1279px) {
+    .page__section {
+        margin-left: calc((100vw - 880px)/2.001);
+        margin-right: calc((100vw - 880px)/2.001);
+    }
+}
+
+@media screen and (max-width: 912px) {
+    .page__section {
+        margin-left: 16px;
+        margin-right: 16px;
+    }
+}

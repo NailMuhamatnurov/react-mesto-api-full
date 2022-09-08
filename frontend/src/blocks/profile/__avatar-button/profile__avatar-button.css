@@ -1,0 +1,15 @@
+.profile__avatar-button {
+    position: absolute;
+    background-image: url(../../../images/change-avatar-button.svg);
+    border-radius: 50%;
+    top: 0;
+    left: 0;
+    width: 120px;
+    height: 120px;
+    background-color: rgba(0, 0, 0, 0);
+    background-position: center;
+    background-size: 26px 26px;
+    background-repeat: no-repeat;
+    border: none;
+    display: none;
+}

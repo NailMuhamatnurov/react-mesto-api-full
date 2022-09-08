@@ -1,0 +1,19 @@
+.header__cross-button {
+    display: none;
+    background-color: transparent; 
+    background-image: url(../../../images/popup-close.svg);
+    background-position: center;
+    background-size: contain;
+    background-repeat: no-repeat;
+    width: 20px;
+    height: 20px;
+    cursor: pointer;
+    margin-right: 14px;
+    background-color: transparent;
+    border: none;
+}
+@media screen and (max-width: 450px) {
+    .header__cross-button {
+        display: block;
+    }
+}

@@ -1,0 +1,9 @@
+@media screen and (max-width: 450px) {
+    .header__link-reg {
+        display: block;
+        font-size: 14px;
+        line-height: 17px;
+        margin-right: 32px;
+        padding-top: 2px;
+    }
+}

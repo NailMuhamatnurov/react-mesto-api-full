@@ -1,0 +1,8 @@
+.header__menu_active {
+    display: none;
+}
+@media screen and (max-width: 450px) {
+    .header__menu_active {
+        display: block;
+    }
+}
